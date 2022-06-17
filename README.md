@@ -1,4 +1,4 @@
-# GrowthMidset
+# GrowthMindset
 
   ### Class 1 Notes
 
