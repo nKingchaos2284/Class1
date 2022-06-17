@@ -1,6 +1,6 @@
 # GrowthMidset
 
-  ###Class 1 Notes
+  ### Class 1 Notes
 
 
 
@@ -21,11 +21,11 @@ errors and assess and ana;yze the downfall. to me, how I keep a growth mentality
  **_I AM UNBREAKABLE
 
 
-###About me
+### About me
 
-######here's the story
+###### here's the story
 
-My name is Jose Cabrera Elias, most people call me "Joey" (He/Him), living in Tri-Cities WA
+>My name is Jose Cabrera Elias, most people call me "Joey" (He/Him), living in Tri-Cities WA
 
 I come from a similiar background, I spent 12 years in the military did electrical and PLC, mechanical and a few other things. I"ve worked on PLC and 
 Fanuc robots programing in the process engineering industry.
