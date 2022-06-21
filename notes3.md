@@ -25,4 +25,4 @@ Linux is a Command Line OS that vhas a Visual GUI.
 
 
 
-### [Main/Table of Contents](https://nkingchaos2284.github.io/reading-notes/reading-notes) ###
+### [Main/Table of Contents](https://nkingchaos2284.github.io/reading-notes/)
