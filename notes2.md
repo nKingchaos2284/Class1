@@ -19,3 +19,4 @@
   
   3. _*Ultimately...the best one Is the one you like the most*_
     
+### [Main/Table of Contents](https://nkingchaos2284.github.io/reading-notes/)
