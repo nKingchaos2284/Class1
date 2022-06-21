@@ -17,3 +17,7 @@ assess and ana;yze the downfall. to me, how I keep a _growth mentality_ is by pr
       - If anything goes wrong, I'll be fine
 
       - ***I AM UNBREAKABLE***
+
+
+
+### [Main/Table of Contents](https://nkingchaos2284.github.io/reading-notes/)
