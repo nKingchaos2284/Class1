@@ -36,7 +36,13 @@ Somethings I like to do
 
 ## Class 102 Notes
 
-[Notes 1](notes1.md)
-[Notes 2](notes2.md)
+ - [Notes 1](notes1.md)
+ - [Notes 2](notes2.md)
+ - [Notes 3](notes3.md)
+ - [Notes 4](notes4.md)
+ - [Notes 5](notes5.md)
+ - [Notes 6](notes6.md)
+ - [Notes 7](notes7.md)
+ - [Notes 8](notes8.md)
 
 
