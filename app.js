@@ -1,25 +1,25 @@
-let favFruit = prompt("What is you favorite fruit?");
-console.log(favFruit);
+let favColor = prompt("What is you favorite color?");
+console.log(favColor);
 
 function capitalize() {
-    favFruitCap = favFruit.charAt(0).toUpperCase();
-    favFruit = favFruitCap + favFruit.slice(1);
+    favColorCap = favColor.charAt(0).toUpperCase();
+    favColor = favColorCap + favColor.slice(1);
 }
 
-if (favFruit == null) {
-    favFruit = prompt("Don't have one? You'll get scurvy! You gotta like something?");
+if (favColor == null) {
+    favColor = prompt("Don't have one? Are you color blind? You gotta like something?");
 }
 
 function askColor() {
     if (favColor == "pink") {
         capitalize();
-        document.write(favFruit + "? really? really? really? I guessssss");
-    } else if (favFruit == "blue" || favFruit == "red" || favFruit == "black") {
+        document.write(favColor + "? really? really? really? I guessssss");
+    } else if (favColor == "blue" || favColor == "red" || favColor == "black") {
         capitalize();
         document.write(favColor + "? I love those too!");
-    } else if (favFruit == "silver" || favFruit == "orange" || favFruit == "purple" || favFruit == "white" || favFruit == "GOLD") {
+    } else if (favColor == "silver" || favColor == "orange" || favColor == "purple" || favColor == "white" || favColor == "GOLD") {
         capitalize();
-        document.write(favFruit + "? VERY MICE!");
+        document.write(favColor + "? VERY MICE!");
     } else {
         capitalize();
         favColor = prompt(favColor + "? That one's not on the list, might've forgot to add that to the database. Try another!");
