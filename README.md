@@ -2,7 +2,7 @@
 
 ### About me
 
-###### Here's The Story
+#### Here's The Story
 
 >My name is Jose Mauricio Cabrera Elias, most people call me "Joey" (He/Him), living in Tri-Cities WA
 
@@ -30,7 +30,7 @@ Somethings I like to do
 
  - try to predict what could go wrong and what will go wrong and try to plan accordingly
 
- **I am awesome
+ ##### I am awesome
 
  **If anything goes wrong, I'll be fine
 
