@@ -16,7 +16,7 @@ I am running windows 11
 I have 3 kids that live in Spokane
 
 I own an online coffee business @kingofchaoscoffeeco... King of Chaos Coffee Co. Shameless Plug
-*[King of Chaos Coffee Co.](http://www.kingofchaoscoffeeco.com)
+*[King of Chaos Coffee Co.](http://www.kingofchaoscoffeeco.com)*
 
 https://nkingchaos2284.github.io/reading-notes/
 
@@ -24,7 +24,7 @@ To me having a growth mindset is admiting to your self that "you know nothing." 
 
 Somethings I like to do
 
-**Practice stoicism
+**Practice stoicism**
 
  - learn from my mistakes
 
