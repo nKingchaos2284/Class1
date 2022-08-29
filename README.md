@@ -11,7 +11,7 @@ Fanuc robots programing in the process engineering industry.
 
 I was in the Navy and the Army
 
-I am running Ubuntu 22.04 LTS (Linux)
+I am running windows 11
 
 I have 3 kids that live in Spokane
 
