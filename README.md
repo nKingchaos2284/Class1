@@ -20,6 +20,8 @@ I own an online coffee business @kingofchaoscoffeeco... King of Chaos Coffee Co.
 
 https://nkingchaos2284.github.io/reading-notes/
 
+To me having a growth mindset is admiting to your self that "you know nothing." Always having the thirst for knowledge. Adapt, improvise, overcome. 
+
 Somethings I like to do
 
 **Practice stoicism
