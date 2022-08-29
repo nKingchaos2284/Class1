@@ -1,4 +1,4 @@
-# GrowthMindset
+# Growth Mindset
 
 ### About me
 
