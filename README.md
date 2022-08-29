@@ -32,6 +32,6 @@ Somethings I like to do
 
  ##### I am awesome
 
- **If anything goes wrong, I'll be fine
+ **If anything goes wrong, I'll be fine**
 
- **_I AM UNBREAKABLE
+ **_I AM UNBREAKABLE**
