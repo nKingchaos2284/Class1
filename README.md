@@ -24,14 +24,14 @@ To me having a growth mindset is admiting to your self that "you know nothing." 
 
 Somethings I like to do
 
-**Practice stoicism
+** Practice stoicism
 
- -learn from my mistakes
+ - learn from my mistakes
 
- -try to predict what could go wrong and what will go wrong and try to plan accordingly
+ - try to predict what could go wrong and what will go wrong and try to plan accordingly
 
- **I am awesome
+ ** I am awesome
 
- **If anything goes wrong, I'll be fine
+ ** If anything goes wrong, I'll be fine
 
- **_I AM UNBREAKABLE
+ **_ I AM UNBREAKABLE
