@@ -2,9 +2,9 @@
 
 ### About me
 
-###### here's the story
+###### Here's The Story
 
->My name is Jose Cabrera Elias, most people call me "Joey" (He/Him), living in Tri-Cities WA
+>My name is Jose Mauricio Cabrera Elias, most people call me "Joey" (He/Him), living in Tri-Cities WA
 
 I come from a similiar background, I spent 12 years in the military did electrical and PLC, mechanical and a few other things. I"ve worked on PLC and 
 Fanuc robots programing in the process engineering industry.
@@ -35,16 +35,3 @@ Somethings I like to do
  **If anything goes wrong, I'll be fine
 
  **_I AM UNBREAKABLE
-
-## Class 102 Notes
-
- - [Notes 1](notes1.md)
- - [Notes 2](notes2.md)
- - [Notes 3](notes3.md)
- - [Notes 4](notes4.md)
- - [Notes 5](notes5.md)
- - [Notes 6](notes6.md)
- - [Notes 7](notes7.md)
- - [Notes 8](notes8.md)
-
-
