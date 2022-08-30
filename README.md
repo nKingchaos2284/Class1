@@ -23,5 +23,5 @@ https://nkingchaos2284.github.io/reading-notes/
 
 ## Notes
 
-* [Class 1](class1.md)
+* [Class 1](notes1.md)
 * Class 2
