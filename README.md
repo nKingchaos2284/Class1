@@ -1,4 +1,4 @@
-# Growth Mindset
+# The Codefellows Project
 
 ### About me
 
