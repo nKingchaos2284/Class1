@@ -17,6 +17,6 @@
       * Text Editor is what it sounds like
       * IDEs have debug sofware and others program amongst the text editor
   
-  3. _*Ultimately...the best one Is the one you like the most*_
+  3. _*Ultimately...the best one Is the one you like the most*_ FACTS!
     
 ### [Main/Table of Contents](https://nkingchaos2284.github.io/reading-notes/)
