@@ -18,7 +18,7 @@ I have 3 kids that live in Spokane
 I own an online coffee business @kingofchaoscoffeeco... King of Chaos Coffee Co. Shameless Plug
 *[King of Chaos Coffee Co.](http://www.kingofchaoscoffeeco.com)*
 
-https://nkingchaos2284.github.io/reading-notes/
+
 
 
 ## Notes
