@@ -18,5 +18,13 @@
       * IDEs have debug sofware and others program amongst the text editor
   
   3. _*Ultimately...the best one Is the one you like the most*_ FACTS!
+  4. I really like VS Code.....
+  Visual Studio Code is a free text editor made by the folks at Microsoft.
+It is available for Windows computers, Mac computers and Linux
+computers. VS Code has the Emmet shorthand for HTML and CSS
+already built-in with no additional work from you at all. VS Code has
+everything: syntax highlighting, themes, extensions and code
+completion. It seems like VS Code has a very healthy following in the
+web developing community
     
 ### [Main/Table of Contents](https://nkingchaos2284.github.io/reading-notes/)
