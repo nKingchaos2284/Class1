@@ -26,3 +26,7 @@ I own an online coffee business @kingofchaoscoffeeco... King of Chaos Coffee Co.
 * [Class 1](notes1.md)
 * [Class 2](notes2.md)
 * [Class 3](notes3.md)
+  [Class 4](notes4.md)
+  [Class 5](notes5.md)
+  [Class 6](notes6.md)
+  [Class 7](notes7.md)
