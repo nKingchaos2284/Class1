@@ -26,6 +26,5 @@ The list is specified using the <ul> tag and each list item is nested inside usi
 
 The <ul> element represents an unordered list. This is because the items are listed in no particular order. This results in identical bullet points being prefixed to each item in the list.
 
-If we wanted to list the items in a particular order, we would use an ordered list. To do this we would simply swap the <ul> tag for a <ol> tag, so that it looked like this:
 
 ### [Main/Table of Contents](https://nkingchaos2284.github.io/reading-notes/)
