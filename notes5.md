@@ -2,7 +2,10 @@
 # CSS Cascade Style sheets #
 
 Style of the webpage
+ 
+ 
   - code
+
    ## SYNTAX ##
   - rule base language
 
@@ -10,7 +13,7 @@ Style of the webpage
 #ways of inserting a style sheet:
 CSS (Cascading Style Sheets) allows you to create great-looking web pages, but how does it work under the hood? This article explains what CSS is with a simple syntax example and also covers some key terms about the language.
 
-Prerequisites:	Basic computer literacy, basic software installed, basic knowledge of working with files, and HTML basics (study Introduction to HTML.)
+Prerequisites: Basic computer literacy, basic software installed, basic knowledge of working with files, and HTML basics (study Introduction to HTML.)
 Objective:	To learn what CSS is.
 In the Introduction to HTML module, we covered what HTML is and how it is used to mark up documents. These documents will be readable in a web browser. Headings will look larger than regular text, paragraphs break onto a new line and have space between them. Links are colored and underlined to distinguish them from the rest of the text. What you are seeing are the browser's default styles — very basic styles — that the browser applies to HTML to make sure that the page will be basically readable even if no explicit styling is specified by the author of the page.
 
