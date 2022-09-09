@@ -6,11 +6,10 @@
 
 >My name is Jose Mauricio Cabrera Elias, most people call me "Joey" (He/Him), living in Tri-Cities WA
 
-I come from a similiar background, I spent 12 years in the military did electrical, mechanical and a few other things. I"ve worked on PLCs and Fanuc robots programing in the process engineering industry. Which I started as an electrician, then moved up and learned different things until I learned PLCs and robotics. I've been into computers since the early 90's. I used to build them and put them together. I also had my first website when I was 15, circa 1998. it was on a place called "Geocities."
-<<<<<<< HEAD
-
-=======
->>>>>>> origin
+I come from a similiar background, I spent 12 years in the military did electrical, mechanical and a few other things. I"ve worked on
+PLCs and Fanuc robots programing in the process engineering industry. Which I started as an electrician, then moved up and learned
+different things until I learned PLCs and robotics. I've been into computers since the early 90's. I used to build them and put them
+together. I also had my first website when I was 15, circa 1998. it was on a place called "Geocities."
 I was in the Navy and the Army. Did two bootcamps.
 
 I am running windows 11
@@ -48,7 +47,3 @@ I own an online coffee business @kingofchaoscoffeeco... King of Chaos Coffee Co.
 * [Class 13](notes213.md)
 * [Class 14](notes214.md)
 * [Class 15](notes215.md)
-<<<<<<< HEAD
-
-=======
->>>>>>> origin
