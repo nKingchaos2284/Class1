@@ -5,10 +5,24 @@
 
 
 1. Compose a short poem describing how HTTP sends data between computers.
-2. Describe how HTML, CSS, and JS files are “parsed” in the browser.
+
+Roses are red.
+Violets are blue.
+HTTP client request website files
+request aproves or dissaproves
+files are sent and babies are made.
+
+2. Describe how HTML, CSS, and JS files are “parsed” in the browser. 
+HTML files are parsed <link> elements referencing external CSS stylesheets and <script> for any external JavaScript. as the browser is parsing it send requests for any CSS files and JS files. The browser then generates the DOM tree and applies the styles from the CSSOM tree and executes the JavaScript.
+
 3. How can you find images to add to a Website?
+google
+
 4. How do you create a String vs a Number in JavaScript?
+quotes, not quotes
+
 5. What is a Variable and why are they important in JavaScript?
+a variable is anything that can vary. variable stores the data value that can be changed later on. Use the reserved keyword var to declare a variable in JavaScript
 
 
 
