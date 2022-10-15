@@ -45,4 +45,7 @@ I own an online coffee business @kingofchaoscoffeeco... King of Chaos Coffee Co.
 * [Class 14](notes214.md)
 * [Class 15](notes215.md)
 
+
+#### Code 301 - Intermediate Software Development - Reading Notes
+
  ## Things I want to know more about
