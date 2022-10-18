@@ -1,3 +1,5 @@
+# Class 01 Notes
+
 ## Introduction to React and Components
 
 - Component-Based ArchitectureLinks to an external site.
