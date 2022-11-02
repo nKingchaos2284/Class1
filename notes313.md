@@ -1,5 +1,6 @@
-Class 12 Reading notes
-Status Codes Based On REST Methods
+Class 13 Reading notes
+
+
 
 In your own words, describe what each group of status code represents
 100’s = These are informational status codes; they usually tell the client that the header part of the request has been received and the server will try to comply with a transmission demand of the client. Like using a different protocol or telling the client that its request will fail before they start sending the body.
