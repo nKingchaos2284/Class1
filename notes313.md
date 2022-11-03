@@ -1,4 +1,5 @@
-Class 13 Reading notes
+Code 301 - Class 13
+
 
 CRUD Basics
 Which HTTP method would you use to update a record through an API? Either PUT or PATCH.
